@@ -1,0 +1,82 @@
+body{
+    background-color: blanchedalmond;
+}
+div{
+    
+    background-color: white;
+    align-content: center;
+    margin: auto;
+    width:50%;
+    border-radius: 15px;
+    
+}
+img{
+    width: 90%;
+    text-align: center;
+    border-radius: 15px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 5%;
+}
+
+h1{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+p{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: 'Open Sans', sans-serif;
+} 
+.Preparation{
+    width: 90%;
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: rgb(255, 247, 252);
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+hr{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+ol{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ul{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5%;
+    font-family: 'Open Sans', sans-serif;
+}
+span{
+    margin-left: 5%;
+    margin-right: 30%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    margin: 5 auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    color: rgb(171, 11, 160);
+}
