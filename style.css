@@ -57,24 +57,26 @@ hr{
 }
 
 ol{
-    margin: 5 auto;
+    padding-top: 0%;
+    padding-left: 5%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 5%;
     font-family: 'Open Sans', sans-serif;
 }
 
 ul{
-    margin: 5 auto;
+    padding-left: 5%;
+    padding-top: 0%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 5%;
     font-family: 'Open Sans', sans-serif;
 }
 span{
     margin-left: 5%;
     margin-right: 30%;
     font-family: 'Open Sans', sans-serif;
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 h3{
