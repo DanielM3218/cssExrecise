@@ -8,6 +8,7 @@ div{
     margin: auto;
     width:50%;
     border-radius: 15px;
+    margin-bottom: 5%;
     
 }
 img{
@@ -44,12 +45,14 @@ h2{
     margin: 5 auto;
     margin-left: 5%;
     margin-right: 5%;
+    color: rgb(105, 43, 43);
 }
 
 hr{
     margin: 5 auto;
     margin-left: 5%;
     margin-right: 5%;
+    
 
 }
 
@@ -80,3 +83,12 @@ h3{
     margin-right: 5%;
     color: rgb(171, 11, 160);
 }
+
+.Nutrition{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    
+}
+
+
