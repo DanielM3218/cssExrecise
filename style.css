@@ -9,6 +9,7 @@ div{
     width:50%;
     border-radius: 15px;
     margin-bottom: 5%;
+    margin-top: 5%;
     
 }
 img{
@@ -45,7 +46,7 @@ h2{
     margin: 5 auto;
     margin-left: 5%;
     margin-right: 5%;
-    color: rgb(105, 43, 43);
+    color: rgba(147, 81, 81, 0.955);
 }
 
 hr{
@@ -91,6 +92,9 @@ h3{
     margin-right: 5%;
     width: 90%;
     
+}
+/**{
+    border: red solid 2px;
 }
 
 
